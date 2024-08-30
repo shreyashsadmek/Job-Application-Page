@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.card:hover {
+    transform: scale(1.05);
+} 
+
+#application-form {
+    margin-top: 40px;
+}
+
+form {
+    max-width: 600px;
+    margin: auto;
+}
